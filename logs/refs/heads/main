@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 9323b739e51be6b1b0ff12e87043a684b834ad43 riccardo meggiolaro <riccardomeggiolaro.info@gmail.com> 1723368494 +0200	commit (initial): ddd
+9323b739e51be6b1b0ff12e87043a684b834ad43 bc927cdfde0dc9addd3c25c354cfbd6a8d004194 riccardo meggiolaro <riccardomeggiolaro.info@gmail.com> 1723483846 +0200	commit: fixed upload chunk
+bc927cdfde0dc9addd3c25c354cfbd6a8d004194 5658e01c1615e625be02f8f1b7bb9dd99bb57402 riccardo meggiolaro <riccardomeggiolaro.info@gmail.com> 1723557219 +0200	commit: fixed upload chunk
+5658e01c1615e625be02f8f1b7bb9dd99bb57402 2928fa4ead0d4a79b3ea72dc93608a2a50269e6b riccardo meggiolaro <riccardomeggiolaro.info@gmail.com> 1723557390 +0200	commit: fixed upload chunk
+2928fa4ead0d4a79b3ea72dc93608a2a50269e6b c0f381e3483a7741847c842bbe9c77c23b97095c riccardo meggiolaro <riccardomeggiolaro.info@gmail.com> 1723557475 +0200	commit (amend): fixed upload chunk
+c0f381e3483a7741847c842bbe9c77c23b97095c 5658e01c1615e625be02f8f1b7bb9dd99bb57402 riccardo meggiolaro <riccardomeggiolaro.info@gmail.com> 1723557574 +0200	reset: moving to HEAD~1
+5658e01c1615e625be02f8f1b7bb9dd99bb57402 dda3682b87206629d1a2468d74812b795fba1ff3 riccardo meggiolaro <riccardomeggiolaro.info@gmail.com> 1723557606 +0200	commit (amend): fixed upload chunk
